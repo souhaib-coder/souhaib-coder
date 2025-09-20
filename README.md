@@ -1,9 +1,8 @@
-#👋 Hi, I’m Souhaib
+## 👋 Hi, I’m Souhaib ＜（＾－＾）＞
 
-Computer engineering student at ENSAJ (specializing in Data Science & Emerging Technologies)<br>
-💡 Passionate about Data Science, Machine Learning, Cloud & IoT  <br>
-🌍 Worked on  Solar Tracking IoT systems for competitions  <br>
-🥛 Internship at Danone → built a Sales Forecasting system & a Personalized Recommender System (PFA)  <br>
-🏦 Internship at UMNIA Bank → learning finance & client interaction  <br>
-🤝 Member of Idea Builder & Benevole clubs, working on teamwork and innovation <br> 
-
+🎓 Computer engineering student at ENSAJ (specializing in Data Science & Emerging Technologies)  
+💡 Passionate about Data Science, Machine Learning, Cloud & IoT  
+🌍 Worked on Solar Tracking IoT systems for competitions  
+🥛 Ex-intern at Danone → built a Sales Forecasting system & a Personalized Recommender System (PFA)  
+🏦 Ex-intern at UMNIA Bank → learning finance & client interaction  
+🖥️ Homelab enthusiast → experimenting with Ubuntu servers, Docker, Nextcloud & Nginx  
