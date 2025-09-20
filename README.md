@@ -1,14 +1,13 @@
 ## 👋 Hi, I’m Souhaib ＜（＾－＾）＞
 
+
+# 💫 About Me:
 🎓 Computer engineering student at ENSAJ (specializing in Data Science & Emerging Technologies)  
 💡 Passionate about Data Science, Machine Learning, Cloud & IoT  
 🌍 Worked on Solar Tracking IoT systems for competitions  
 🥛 Ex-intern at Danone → built a Sales Forecasting system & a Personalized Recommender System (PFA)  
 🏦 Ex-intern at UMNIA Bank → learning finance & client interaction  
 🖥️ Homelab enthusiast → experimenting with Ubuntu servers, Docker, Nextcloud & Nginx  
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/souhaib-s-837888254) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souhaibsellab7@gmail.com) 
