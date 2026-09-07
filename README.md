@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/souhaib-s-837888254/">LinkedIn</a> ·
-  <a href="mailto:your-email@example.com">Email</a> ·
+  <a href="mailto:souhaibsellab7@gmail.com">Email</a> ·
   <a href="https://github.com/souhaib-coder">GitHub</a>
 </p>
 
@@ -47,38 +47,34 @@
 
 <br>
 
-<h2 align="center">GitHub Activity</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=souhaib-coder&theme=github_dark&hide_border=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=souhaib-coder&theme=default&hide_border=true" alt="GitHub statistics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=souhaib-coder&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=souhaib-coder&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub statistics" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=souhaib-coder&theme=github_dark&hide_border=true&layout=compact" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souhaib-coder&theme=default&hide_border=true&layout=compact" alt="Most used languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=souhaib-coder&theme=github_dark&hide_border=true&layout=compact&count_private=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souhaib-coder&theme=default&hide_border=true&layout=compact&count_private=true" alt="Most used languages" />
   </picture>
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=souhaib-coder&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=souhaib-coder&theme=github-dark&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=souhaib-coder&bg_color=ffffff&color=64748b&line=0ea5e9&point=0ea5e9&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=souhaib-coder&bg_color=ffffff&color=64748b&line=0ea5e9&point=0ea5e9&area=true&hide_border=true" alt="GitHub contribution graph" />
-    </picture>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=souhaib-coder&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 </div>
 
 <br>
 
-<h2 align="center">Top Contributed Repos</h2>
+<h2 align="center">Contributions</h2>
 
-![](https://github-contributor-stats.vercel.app/api?username=souhaib-coder&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/souhaib-coder/souhaib-coder/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/souhaib-coder/souhaib-coder/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/souhaib-coder/souhaib-coder/output/github-snake.svg" />
+  </picture>
+</div>
 
 <br>
 
