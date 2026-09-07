@@ -55,8 +55,8 @@
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=souhaib-coder&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub statistics" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=souhaib-coder&theme=github_dark&hide_border=true&layout=compact&count_private=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souhaib-coder&theme=default&hide_border=true&layout=compact&count_private=true" alt="Most used languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=souhaib-coder&theme=github_dark&hide_border=true&layout=pie&count_private=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souhaib-coder&theme=default&hide_border=true&layout=pie&count_private=true" alt="Most used languages" />
   </picture>
 </div>
 
