@@ -1,24 +1,89 @@
-## 👋 Hi, I’m Souhaib ＜（＾－＾）＞
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&repeat=false&width=620&height=70&lines=Hi,+I'm+Souhaib+%E3%80%88%EF%BC%BE%E2%88%92%EF%BC%BE%EF%BC%89%E3%80%89" alt="Souhaib">
+</p>
 
+<p align="center">
+  Computer Engineering Student · Data Science & Emerging Technologies
+</p>
 
-# 💫 About Me:
-🎓 Computer engineering student at ENSAJ (specializing in Data Science & Emerging Technologies)  
-💡 Passionate about Data Science, Machine Learning, Cloud & IoT  
-🌍 Worked on Solar Tracking IoT systems for competitions  
-🥛 Ex-intern at Danone → built a Sales Forecasting system & a Personalized Recommender System (PFA)  
-🏦 Ex-intern at UMNIA Bank → learning finance & client interaction  
-🖥️ Homelab enthusiast → experimenting with Ubuntu servers, Docker, Nextcloud & Nginx  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1100&color=64748B&center=true&vCenter=true&width=760&height=45&lines=Data+Science+%7C+Machine+Learning+%7C+Cloud+%7C+IoT" alt="Tech Focus">
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souhaib-s-837888254) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souhaibsellab7@gmail.com) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/souhaib-s-837888254/">LinkedIn</a> ·
+  <a href="mailto:your-email@example.com">Email</a> ·
+  <a href="https://github.com/souhaib-coder">GitHub</a>
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=souhaib-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=souhaib-coder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=souhaib-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0f172a?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Cloud-0f172a?style=flat-square&logo=aws&logoColor=white" alt="Cloud" />
+  <img src="https://img.shields.io/badge/IoT-0f172a?style=flat-square&logo=arduino&logoColor=white" alt="IoT" />
+  <img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
+<br>
 
-## 🔝 Top Contributed Repo
+<h2 align="center">💫 About Me</h2>
+
+- 🎓 Computer engineering student at ENSAJ (specializing in Data Science & Emerging Technologies)
+- 💡 Passionate about Data Science, Machine Learning, Cloud & IoT
+- 🌍 Worked on Solar Tracking IoT systems for competitions
+- 🥛 Ex-intern at Danone → built a Sales Forecasting system & a Personalized Recommender System (PFA)
+- 🏦 Ex-intern at UMNIA Bank → learning finance & client interaction
+- 🖥️ Homelab enthusiast → experimenting with Ubuntu servers, Docker, Nextcloud & Nginx
+
+<br>
+
+<h2 align="center">Core Stack</h2>
+
+`Python` · `Machine Learning` · `Data Science` · `Cloud Technologies` · `Docker` · `IoT` · `C` · `Web Development`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,docker,aws,linux,git,cpp,c&perline=8" alt="Core technologies" />
+</p>
+
+<br>
+
+<h2 align="center">GitHub Activity</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=souhaib-coder&theme=github_dark&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=souhaib-coder&theme=default&hide_border=true" alt="GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=souhaib-coder&theme=github_dark&hide_border=true&layout=compact" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souhaib-coder&theme=default&hide_border=true&layout=compact" alt="Most used languages" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=souhaib-coder&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=souhaib-coder&theme=github-dark&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=souhaib-coder&bg_color=ffffff&color=64748b&line=0ea5e9&point=0ea5e9&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=souhaib-coder&bg_color=ffffff&color=64748b&line=0ea5e9&point=0ea5e9&area=true&hide_border=true" alt="GitHub contribution graph" />
+    </picture>
+  </a>
+</div>
+
+<br>
+
+<h2 align="center">Top Contributed Repos</h2>
+
 ![](https://github-contributor-stats.vercel.app/api?username=souhaib-coder&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<br>
+
+---
+
+<p align="center">
+  Made with ❤️ by Souhaib
+</p>
